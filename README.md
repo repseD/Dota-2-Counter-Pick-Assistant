@@ -43,8 +43,8 @@ The main goal of this project is to demonstrate the practical application of exp
 
 1.  **Clone the repository**:
     ```bash
-    git clone <your-repository-url>
-    cd IZ-4
+    git clone https://github.com/repseD/Dota-2-Counter-Pick-Assistant.git
+    cd Dota-2-Counter-Pick-Assistant
     ```
 
 2.  **Create and activate a virtual environment** (recommended):
